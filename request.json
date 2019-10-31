@@ -1,0 +1,20 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "https://mott.pe/noticias/wp-content/uploads/2018/03/Formas-de-mejorar-la-composici%C3%B3n-fotogr%C3%A1fica-de-una-imagen-angulo.jpg"
+        }
+      },
+      "features": [
+        {
+          "type": "SAFE_SEARCH_DETECTION"
+        },
+{
+"maxResults": 10,
+          "type": "OBJECT_LOCALIZATION"
+}
+      ]
+    }
+  ]
+}
